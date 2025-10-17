@@ -1,0 +1,82 @@
+🔹 Summary of PPT Contents
+
+Title: Grocery Store Management SQL Project
+
+By:
+
+K. Chandu Goud
+
+S. Rishikesh Reddy
+
+1️⃣ Introduction
+
+Describes how grocery stores generate large amounts of data daily (sales, inventory, suppliers, customers).
+
+Explains the goal: analyze and manage data efficiently using SQL.
+
+Highlights data-driven decision-making and analytics (descriptive, diagnostic, predictive, prescriptive).
+
+2️⃣ Database Design
+
+Includes tables for:
+
+Customers
+
+Orders
+
+Order_Details
+
+Products
+
+Suppliers
+
+Categories
+
+Store_Employees
+
+Shows ER Diagram linking all relationships.
+
+3️⃣ Problem Statements (Queries Answered)
+
+Your PPT includes 25 analytical SQL questions, such as:
+
+How many unique customers have placed orders?
+
+Which customers have placed the highest number of orders?
+
+What is the total and average purchase value per customer?
+
+Who are the top 5 customers by total purchase amount?
+
+How many products exist in each category?
+
+What is the average price of products by category?
+...
+
+How does the unit price vary across products and orders?
+
+4️⃣ Results & Insights
+
+SQL queries analyze sales, customers, suppliers, and employee performance.
+
+Identifies:
+
+Best-selling products
+
+Loyal customers
+
+Revenue trends
+
+Supplier contribution
+
+Employee order performance
+
+5️⃣ Conclusion
+
+Database improves data storage & management.
+
+SQL queries help discover insights.
+
+Enhances operational efficiency, sales, and customer satisfaction.
+
+Encourages smarter data-driven business strategies.
